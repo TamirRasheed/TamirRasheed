@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Trasheed@mail.sfsu.edu**
 
-- 📄 Here's a link to my resume [https://www.linkedin.com/in/tamir-rasheed-7913101b8/overlay/1635502844607/single-media-viewer/](https://www.linkedin.com/in/tamir-rasheed-7913101b8/overlay/1635502844607/single-media-viewer/)
+- 📄 Here's a link to my LinkedIn [https://www.linkedin.com/in/tamir-rasheed-7913101b8/](https://www.linkedin.com/in/tamir-rasheed-7913101b8/)
 
 - ⚡ Fun fact **I have 5 sisters (2 older and 3 younger)**
 
