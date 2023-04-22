@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tamir Rasheed</h1>
 <h3 align="center">A Graduate from San Francisco State University with a B.S. in Computer Science and a minor in Mathematics</h3>
 
-- 🔭 I’m currently working on **MLBStatTracker and RecoveryNote**
+- 🔭 I’m currently working on **MLBStatTracker and MemoryBank**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **JavaScript, Java, Python, MERN**
+- 💬 Ask me about **JavaScript, Java, and Python**
 
 - 📫 How to reach me **Trasheed@mail.sfsu.edu**
 
